@@ -1,0 +1,43 @@
+.header {
+    margin-top: 20px;
+}
+
+.logo-img {
+    width: 100px;
+    height: 100px;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.header-font {
+    color: #2d3c49;
+}
+
+h1 {
+   font-weight: 100; 
+}
+
+.line {
+  border: 1px solid; 
+  color: #7d97ad;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.featured-work-title {
+    color: #7d97ad;
+    margin-top: 25px;
+    font-weight: 300;
+}
+
+.title-of-work {
+    color: #2d3c49;
+    font-weight: 400;
+}
+
+.link {
+    color: #2d3c49;
+    font-weight: 100;
+}
